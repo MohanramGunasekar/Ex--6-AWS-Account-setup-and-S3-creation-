@@ -1,4 +1,4 @@
-# Ex--2-AWS-Account-setup-and-S3-creation-
+# EX 2 : CLOUD STORAGE CREATION (S3) AND LAUNCHING AN (EC2) INSTANCE IN AWS
 ## NAME: Mohanram Gunasekar
 ## Reg no: 212223240095
 # Introduction
